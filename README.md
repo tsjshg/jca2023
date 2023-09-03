@@ -16,6 +16,8 @@ Anaconda [https://www.anaconda.com/](https://www.anaconda.com/)
 
 おすすめテキストエディタ [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
 
+おすすめ検索エンジン [https://www.perplexity.ai/](https://www.perplexity.ai/)
+
 ### 本の宣伝
 
 [『Pythonスタートブック（増補改訂版）』](https://gihyo.jp/book/2018/978-4-7741-9643-5)
